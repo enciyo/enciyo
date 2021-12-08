@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enciyo&show_icons=true&theme=dracula)    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enciyo&layout=compact&theme=dracula)](https://github.com/enciyo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enciyo&layout=compact&theme=dracula)
 
 
 # Blog posts
