@@ -1,18 +1,54 @@
-### Hi there 👋
+<!-- Banner -->
+<h1 align="center">Hi 👋, I'm Mustafa Kılıç</h1>
+<h3 align="center">Senior Android Developer • Tool Builder • Open Source Enthusiast</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enciyo&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://twitter.com/mustafakilicdev"><img src="https://img.shields.io/twitter/follow/mustafakilicdev?label=Follow&style=social" /></a>
+  <a href="https://linkedin.com/in/mustafakilicdev"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@mustafakilicdev"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white"/></a>
+  <a href="https://enciyo.github.io"><img src="https://img.shields.io/badge/Portfolio-enciyo.github.io-blueviolet"/></a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enciyo&layout=compact&theme=dracula&langs_count=1000)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### 🧠 About Me
+
+- 🔭 Currently building: **FlipMock**, **gh-che**, and productivity tools for developers  
+- 💡 I love turning ideas into products and solving pain points with developer-first tools  
+- ✍️ Sharing my learnings on [Medium](https://medium.com/@mustafakilicdev)  
+- 🎤 Occasional speaker, mentor, and content creator  
+- 🧰 Passionate about developer tooling, architecture, and clean code
+
+---
+
+### 💼 Tech Stack
+
+```yaml
+Languages:     Kotlin, Java, Dart, Swift
+Mobile:        Android (Jetpack Compose), Flutter, iOS
+Networking:    Retrofit, OkHttp, Alamofire
+Architecture:  MVVM, MVI, Clean Architecture, Hilt, Room
+CI/CD:         GitHub Actions, Bitrise
+Backend:       Firebase, REST APIs, GraphQL
+Tools:         Flipper, Copilot, Gradle, Git, Postman
+
+```
+
+### 📌 Featured Projects
+
+| ⭐ Project                                                        | 🔍 Description                                           | 🧪 Tech                 |
+| ---------------------------------------------------------------- | -------------------------------------------------------- | ----------------------- |
+| [**FlipMockDesktop**](https://github.com/enciyo/FlipMockDesktop) | Desktop app to simulate HTTP responses for mobile apps   | Kotlin, JavaFX          |
+| [**FlipMockAndroid**](https://github.com/enciyo/FlipMockAndroid) | Android plugin for mocking API responses via Flipper     | Kotlin, Retrofit        |
+| [**gh-che**](https://github.com/enciyo/gh-che)                   | Export your GitHub Copilot chat history                  | Java, Swing             |
+| [**SatellitesApp**](https://github.com/enciyo/SatellitesApp)     | Real-time satellite tracker built with Jetpack Compose   | Kotlin, Jetpack Compose |
+| [**AndroidKtsTemp**](https://github.com/enciyo/AndroidKtsTemp)   | Kotlin Android starter template with modern architecture | Kotlin, MVVM, Hilt      |
 
 
+### 📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=enciyo&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://streak-stats.demolab.com?user=enciyo&theme=tokyonight&hide_border=true" width="48%" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enciyo&theme=tokyonight" width="96%"/> </p>
 
+### 🏆 GitHub Achievements
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=enciyo&theme=onestar&row=1&column=6" /> </p>
 
-
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Flutter-Lifecycle](https://medium.com/gdgtekirdag/flutter-lifecycle-fa2eb14fe5fd?source=rss-7573da1ec4a------2)
-- [Flutter-Scaffold](https://medium.com/gdgtekirdag/flutter-scaffold-92b99f230f5c?source=rss-7573da1ec4a------2)
-- [Android ile Retrofit Kullanımı&lpar;SpaceXdata&rpar;](https://medium.com/gdgtekirdag/android-ile-retrofit-kullan%C4%B1m%C4%B1-spacexdata-71a5117666d1?source=rss-7573da1ec4a------2)
-<!-- BLOG-POST-LIST:END -->
-
+<p align="center"> <i>“Tools don’t make great developers. But great developers make great tools.”</i><br/> <b>– Mustafa Kılıç</b> </p> 
