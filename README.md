@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://twitter.com/mustafakilicdev"><img src="https://img.shields.io/twitter/follow/mustafakilicdev?label=Follow&style=social" /></a>
   <a href="https://linkedin.com/in/mustafakilicdev"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://medium.com/@mustafakilicdev"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white"/></a>
+  <a href="https://medium.com/@enciyo"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white"/></a>
   <a href="https://enciyo.github.io"><img src="https://img.shields.io/badge/Portfolio-enciyo.github.io-blueviolet"/></a>
 </p>
 
@@ -15,7 +15,7 @@
 
 - 🔭 Currently building: **FlipMock**, **gh-che**, and productivity tools for developers  
 - 💡 I love turning ideas into products and solving pain points with developer-first tools  
-- ✍️ Sharing my learnings on [Medium](https://medium.com/@mustafakilicdev)  
+- ✍️ Sharing my learnings on [Medium](https://medium.com/@enciyo)  
 - 🎤 Occasional speaker, mentor, and content creator  
 - 🧰 Passionate about developer tooling, architecture, and clean code
 
